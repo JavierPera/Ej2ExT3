@@ -6,7 +6,7 @@ public class Turron {
 
 String minombre="Javier Pera Vidal";
 		
-		System.out.println("Soy "+ minombre+ " y me encantan los turrones");
+		System.out.println("Pero mi preferido es el de chocolate. ");
 		
 	}
 
